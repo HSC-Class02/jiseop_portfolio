@@ -4,7 +4,7 @@
 
 ## Category
 - **About**: 소개 및 프로필
-- **AI-Generated Reports**: 딥노이드 OpenDART 대시보드와 2023–2024 핵심 재무 분석
+- **AI-Generated Reports**: AI 자동화 보고서 및 프로젝트 산출물 (추후 추가 예정)
 - **Qualifications & Certifications**: Coursera 수료증 1건 (원본 PDF)
 - **Activities**: 프로젝트·학습·교내외 활동
 
